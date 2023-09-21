@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradipta Dey</h1>
 <h1 align="center">Data Analyst</h1>
 
-![System-engineer-to-data-analyst]()
+
 
 
 <h3 align="center">An aspiring and detail-oriented data analyst from India with strong mathematical skills and statistical knowledge with a keen interest in handling and manipulating data to provide useful insights.</h3>
