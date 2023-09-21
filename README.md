@@ -12,18 +12,18 @@
 
 - 🌱 I’m currently learning **SAS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashraf7474](https://github.com/Ashraf7474)
+- 👨‍💻 All of my projects are available at [(https://github.com/PradiptaDey13)]
 
 - 💬 Ask me about **Python, MySQL, Excel, Power BI , Machine Learning**
 
-- 📫 You can use my Gmail to reach out to me: **khanashraf747474@gmail.com**
+- 📫 You can use my Gmail to reach out to me: **pradiptadey252@gmail.com**
 
 - ⚡ Fun fact: **I always remain in learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammad-ashraf-4a5997224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-ashraf-4a5997224" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/khanashraf747474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/khanashraf747474" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
